@@ -2,8 +2,9 @@
 
  | **Data Analyst**
 
-Me chamo Vitória Mariana Fiuza, sou de São Paulo e estou iniciando minha transição real para a área de Dados. Tenho experiências com rotinas administrativas, organização de informações e apoio ao time jurídico, e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UniRios.
-Sou apaixonada por tecnologia, estudo Python e SQL, e aplico meus conhecimentos em projetos voltados à análise de dados, com foco em áreas como RH e Vendas. Compartilho parte da minha trajetória e aprendizados no GitHub e no LinkedIn.
+Em transição para Dados, com experiência administrativa e suporte jurídico. Curso Análise e Desenvolvimento de Sistemas e aplico Python e SQL em projetos voltados a RH e Vendas. Compartilho no GitHub e LinkedIn.
+
+Transitioning to Data with experience in admin and legal support. Studying Systems Analysis and using Python and SQL in HR and Sales projects. Sharing on GitHub and LinkedIn.
 
 I’m Vitória Mariana Fiuza from São Paulo, transitioning into the Data field with a background in administrative operations and legal team support. I’m currently pursuing a degree in Systems Analysis and Development at UniRios, and developing data analysis projects using Python and SQL, with a focus on HR and Sales. I share my work on GitHub and LinkedIn.
 
