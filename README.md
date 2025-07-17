@@ -6,8 +6,6 @@ Em transição para Dados, com experiência administrativa e suporte jurídico. 
 
 Transitioning to Data with experience in admin and legal support. Studying Systems Analysis and using Python and SQL in HR and Sales projects. Sharing on GitHub and LinkedIn.
 
-I’m Vitória Mariana Fiuza from São Paulo, transitioning into the Data field with a background in administrative operations and legal team support. I’m currently pursuing a degree in Systems Analysis and Development at UniRios, and developing data analysis projects using Python and SQL, with a focus on HR and Sales. I share my work on GitHub and LinkedIn.
-
 <p align="left">
     <a href="https://github.com/VitoriaFiuza?tab=repositories&sort=stargazers">
         <img 
