@@ -84,3 +84,10 @@ Transitioning to Data with experience in admin and legal support. Studying Syste
     src="https://github-readme-stats.vercel.app/api?username=VitoriaFiuza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
+
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Análise de Vendas - Python](projetos/analise-vendas) | Limpeza e análise exploratória de dados de vendas | Python, pandas, matplotlib |
+| [Consulta SQL - RH](projetos/consultas-sql-rh) | Consultas em um banco fictício de funcionários | SQL |
+| [Dashboard Financeiro](projetos/dashboard-financas) | Criação de dashboard com indicadores de gastos | Power BI |
