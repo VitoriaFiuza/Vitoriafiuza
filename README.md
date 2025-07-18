@@ -86,6 +86,10 @@ Transitioning to Data with experience in admin and legal support. Studying Syste
 </p>
 
 
+
+
+
+
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [Análise de Vendas - Python](projetos/analise-vendas) | Limpeza e análise exploratória de dados de vendas | Python, pandas, matplotlib |
