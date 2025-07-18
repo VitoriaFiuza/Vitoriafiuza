@@ -84,11 +84,7 @@ Transitioning to Data with experience in admin and legal support. Studying Syste
     src="https://github-readme-stats.vercel.app/api?username=VitoriaFiuza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
-
-
-
-
-
+---
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
