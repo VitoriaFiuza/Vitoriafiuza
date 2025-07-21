@@ -89,5 +89,5 @@ Transitioning to Data with experience in admin and legal support. Studying Syste
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [Análise de Vendas - Python](projetos/analise-vendas) | Limpeza e análise exploratória de dados de vendas | Python, pandas, matplotlib |
-| [Consulta SQL - RH](projetos/consultas-sql-rh) | Consultas em um banco fictício de funcionários | SQL |
+| [Consulta SQL - RH](https://github.com/VitoriaFiuza/Consulta-SQL-RH) | Consultas em um banco fictício de funcionários | SQL |
 | [Dashboard Financeiro](projetos/dashboard-financas) | Criação de dashboard com indicadores de gastos | Power BI |
