@@ -70,7 +70,6 @@ Transitioning to Data with experience in admin and legal support. Studying Syste
 ---
 
 ### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
