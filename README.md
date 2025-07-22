@@ -28,48 +28,44 @@ Transitioning to Data with experience in admin and legal support. Studying Syste
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  alt="Python" 
+  title="Python" 
+  width="30px" 
+  style="padding-right: 10px;" 
 />
 <img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+  alt="SQL" 
+  title="SQL" 
+  width="30px" 
+  style="padding-right: 10px;" 
 />
 <img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  alt="Git" 
+  title="Git" 
+  width="30px" 
+  style="padding-right: 10px;" 
 />
 <img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+  alt="GitHub" 
+  title="GitHub" 
+  width="30px" 
+  style="padding-right: 10px;" 
 />
 <img 
-    align="left" 
-    alt="Jira" 
-    title="Jira"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
+  alt="Jira" 
+  title="Jira" 
+  width="30px" 
+  style="padding-right: 10px;" 
 />
 
-<br/>
-<br/>
+<br clear="all" />
+<br />
+
 
 ---
 
