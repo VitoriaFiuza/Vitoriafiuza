@@ -85,4 +85,4 @@ Transitioning to Data with experience in admin and legal support. Studying Syste
 |--------|-----------|-------------|
 | [Análise de Vendas - Python](https://github.com/VitoriaFiuza/Analise-de-vendas-phyton) | Limpeza e análise exploratória de dados de vendas | Python, pandas, matplotlib |
 | [Consulta SQL - RH](https://github.com/VitoriaFiuza/Consulta-SQL-RH) | Consultas em um banco fictício de funcionários | SQL |
-| [Dashboard Financeiro](projetos/dashboard-financas) | Criação de dashboard com indicadores de gastos | Power BI |
+| [Dashboard Financeiro](https://github.com/VitoriaFiuza/Dashboard-Financeiro/blob/main/README.md) | Criação de dashboard com indicadores de gastos | Power BI |
